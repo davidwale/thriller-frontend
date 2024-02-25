@@ -1,6 +1,6 @@
 # Frontend for Point Transfer Web Application
 
-Welcome to the frontend repository of this Point Transfer Web Application! This repository contains the code for the client-side interface of our application, allowing users to interact with the system and transfer points between each other.
+Welcome to the frontend repository of this Point Transfer Web Application! This repository contains the code for the client-side interface of the application, allowing users to interact with the system and transfer points between each other.
 
 ## Table of Contents
 
@@ -50,7 +50,7 @@ npm install or yarn install
 
 3. Configure the backend API endpoint:
 
-   - Create an `.env.development` file in the project directory.
+   - Create a `.env.development` file in the project directory.
 
    - Add this line `REACT_APP_API_PATH=API_URL/api` replace API_URL with your api endpoint.
 
